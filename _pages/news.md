@@ -6,7 +6,7 @@ image: '/images/news.jpg'
 ---
 # 2023
 
-**Dec 21st, 2023**: Paper ["Robust Knowledge Extraction from Large Language Models using Social Choice Theory"](https://arxiv.org/abs/2312.14877) got accepted by [AAMAS'24](https://www.aamas2024-conference.auckland.ac.nz/calls/submission-instruction/).
+**Dec 21st, 2023**: Paper ["Robust Knowledge Extraction from Large Language Models using Social Choice Theory"](https://arxiv.org/abs/2312.14877) got accepted as a full paper by [AAMAS'24](https://www.aamas2024-conference.auckland.ac.nz/calls/submission-instruction/).
 
 **Nov 28th, 2023**: Gave talk about ["Knowledge graphs meet Large Language Models"](https://www.linkedin.com/posts/google-developer-group-nuremberg_we-are-super-excited-to-announce-yuqicheng-activity-7132993111739314176-hpBr?utm_source=share&utm_medium=member_desktop) at Google Developer Group (GDG) Nuremberg. 
 
