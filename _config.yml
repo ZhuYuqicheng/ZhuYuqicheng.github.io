@@ -24,9 +24,9 @@ hero:
 
 #-------------------------------
 # Contact Settings
-contact:
-  email: zhuyuqicheng@gmail.com # Add your email for contact form
-  description: Feel free to reach out if you're interested in collaborating. (Sending an email to zhuyuqicheng@gmail is simpler) # Add a description of your form
+# contact:
+#  email: zhuyuqicheng@gmail.com # Add your email for contact form
+#  description: Feel free to reach out if you're interested in collaborating. (Sending an email to zhuyuqicheng@gmail is simpler) # Add a description of your form
 
 # NOTE
 # Norlin theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
