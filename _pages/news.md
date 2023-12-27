@@ -14,6 +14,10 @@ image: '/images/news.jpg'
 
 **Oct 22nd, 2023**: Published a chinese song [《晚安》(cover 颜人中)](https://music.163.com/#/song?id=2092813657) on NetEase Cloud Music.
 
+**Sep 4th, 2023**: Two posters ["Towards Statistical Reasoning with Ontology Embeddings"](https://hozo.jp/ISWC2023_PD-Industry-proc/ISWC2023_paper_442.pdf) and ["Can Pattern Learning Enhance Complex Logical Query Answering?"](https://hozo.jp/ISWC2023_PD-Industry-proc/ISWC2023_paper_463.pdf) got accepted by [ISWC'23](https://iswc2023.semanticweb.org/)
+
+**Aug 26th, 2023**: Gave talk about "Machine Unlearning" at Google Developer Group (GDG) Stuttgart.
+
 **Jul 8th - Jul 16th**: Attended Oxford Machine Learning Summer School ([OxML'23](https://www.oxfordml.school/program)) in Mathematical Institute, University of Oxford.
 
 **Feb 1st**: Joined doctoral program at International Max Planck Research School for Intelligent Systems ([IMPRS-IS](https://imprs.is.mpg.de/)).
