@@ -10,7 +10,7 @@ image: '/images/news.jpg'
 
 **June 14th, 2024**: Attended ELLIS Summer Symposium (Stuttgart Unit) and had a poster about ["Decision Making Under Model Multiplicity"](https://ellis.eu/events)
 
-![ELLIS](/images/ELLIS2024.JPG)
+![ELLIS](/images/ELLIS2024.jpg)
 
 **May 6th-10th, 2024**: Attended AAMAS'24 and gave oral presentation for paper ["Robust Knowledge Extraction from Large Language Models using Social Choice Theory"](https://arxiv.org/abs/2312.14877) in Auckland, New Zealand.
 
