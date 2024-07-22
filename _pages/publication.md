@@ -7,11 +7,21 @@ image: '/images/publication.jpg'
 
 # Published Papers (also see [Google Scholar](https://scholar.google.com/citations?user=TE5jy5cAAAAJ&hl=en))
 
-## 2023
+## 2024
+
+### [Generating SROI^{-} Ontologies via Knowledge Graph Query Embedding Learning](https://arxiv.org/pdf/2407.09212)
+
+Yunjie He, Daniel Hernandez, Mojtaba Nayyeri, Bo Xiong, <u>Yuqicheng Zhu</u>, Evgeny Kharlamov, Steffen Staab. *The 27th European Conference On Artificial Intelligence (ECAI 2024)*.
 
 ### [Robust Knowledge Extraction from Large Language Models using Social Choice Theory](https://arxiv.org/abs/2312.14877)
 
 Nico Potyka<sup>\*</sup>, <u>Yuqicheng Zhu</u><sup>\*</sup>, Yunjie He, Evgeny Kharlamov, Steffen Staab. *The 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2024)*.
+
+## 2023
+
+### [Modeling Relational Patterns for Logical Query Answering over Knowledge Graphs](https://arxiv.org/pdf/2303.11858)
+
+Yunjie He, Mojtaba Nayyeri, Bo Xiong, <u>Yuqicheng Zhu</u>, Evgeny Kharlamov, Steffen Staab. *Under review*.
 
 ### [Towards Statistical Reasoning with Ontology Embeddings](https://hozo.jp/ISWC2023_PD-Industry-proc/ISWC2023_paper_442.pdf)
 
