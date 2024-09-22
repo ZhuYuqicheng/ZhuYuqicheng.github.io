@@ -9,6 +9,10 @@ image: '/images/publication.jpg'
 
 ## 2024
 
+### [Predictive Multiplicity of Knowledge Graph Embeddings in Link Prediction](https://arxiv.org/abs/2408.08226)
+
+<u>Yuqicheng Zhu</u>, Nico Potyka, Mojtaba Nayyeri, Bo Xiong, Yunjie He, Evgeny Kharlamov, Steffen Staab. *The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)*.
+
 ### [Generating SROI^{-} Ontologies via Knowledge Graph Query Embedding Learning](https://arxiv.org/pdf/2407.09212)
 
 Yunjie He, Daniel Hernandez, Mojtaba Nayyeri, Bo Xiong, <u>Yuqicheng Zhu</u>, Evgeny Kharlamov, Steffen Staab. *The 27th European Conference On Artificial Intelligence (ECAI 2024)*.

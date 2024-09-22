@@ -6,9 +6,13 @@ image: '/images/news.jpg'
 ---
 # 2024
 
-**July 4th, 2024**: Paper [Generating SROI^{-} Ontologies via Knowledge Graph Query Embedding Learning](https://arxiv.org/pdf/2407.09212) got accepted as a full paper by [ECAI'24](https://www.ecai2024.eu/).
+**Sep 22nd, 2024**: Serve as a member of the program committee (PC member) for [the 38th International Florida Artificial Intelligence Research Society (FLAIRS 38)](https://www.flairs-38.info/).
 
-**June 14th, 2024**: Attended ELLIS Summer Symposium (Stuttgart Unit) and had a poster about ["Decision Making Under Model Multiplicity"](https://ellis.eu/events)
+**Sep 20th, 2024**: Paper [Predictive Multiplicity of Knowledge Graph Embeddings in Link Prediction](https://arxiv.org/abs/2408.08226) got accepted as a finding paper by [EMNLP'24](https://2024.emnlp.org/).
+
+**Jul 4th, 2024**: Paper [Generating SROI^{-} Ontologies via Knowledge Graph Query Embedding Learning](https://arxiv.org/pdf/2407.09212) got accepted as a full paper by [ECAI'24](https://www.ecai2024.eu/).
+
+**Jun 14th, 2024**: Attended ELLIS Summer Symposium (Stuttgart Unit) and had a poster about ["Decision Making Under Model Multiplicity"](https://ellis.eu/events)
 
 ![ELLIS](/images/ELLIS2024.jpg)
 
