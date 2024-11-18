@@ -9,7 +9,7 @@ image: '/images/publication.jpg'
 
 ## 2024
 
-### [Predictive Multiplicity of Knowledge Graph Embeddings in Link Prediction](https://arxiv.org/abs/2408.08226)
+### [Predictive Multiplicity of Knowledge Graph Embeddings in Link Prediction](https://aclanthology.org/2024.findings-emnlp.19/)
 
 <u>Yuqicheng Zhu</u>, Nico Potyka, Mojtaba Nayyeri, Bo Xiong, Yunjie He, Evgeny Kharlamov, Steffen Staab. *The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)*.
 
@@ -17,7 +17,7 @@ image: '/images/publication.jpg'
 
 Yunjie He, Daniel Hernandez, Mojtaba Nayyeri, Bo Xiong, <u>Yuqicheng Zhu</u>, Evgeny Kharlamov, Steffen Staab. *The 27th European Conference On Artificial Intelligence (ECAI 2024)*.
 
-### [Robust Knowledge Extraction from Large Language Models using Social Choice Theory](https://arxiv.org/abs/2312.14877)
+### [Robust Knowledge Extraction from Large Language Models using Social Choice Theory](https://dl.acm.org/doi/10.5555/3635637.3663020)
 
 Nico Potyka<sup>\*</sup>, <u>Yuqicheng Zhu</u><sup>\*</sup>, Yunjie He, Evgeny Kharlamov, Steffen Staab. *The 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2024)*.
 
