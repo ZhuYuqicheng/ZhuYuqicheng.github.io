@@ -24,9 +24,3 @@ First of all, we argue that the deterministic answers provided by greedy search 
 
 > Follow-up content coming soon. :)
 
-Test:
-
-$$
-\int_0^1 x^2 dx
-$$
-
