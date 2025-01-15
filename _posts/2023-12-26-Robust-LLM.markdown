@@ -30,4 +30,3 @@ $$
 \int_0^1 x^2 dx
 $$
 
-<img src="https://latex.codecogs.com/svg.latex?E=mc^2" />
