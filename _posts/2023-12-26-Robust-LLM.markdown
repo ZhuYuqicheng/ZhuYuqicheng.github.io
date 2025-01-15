@@ -4,7 +4,7 @@ title:  Robust Knowledge Extraction from Large Language Models
 description: Large-language models (LLMs) have the potential to support a wide range of applications. However, they are ill-suited for query answering in high-stake domains like medicine because they generate answers at random and their answers are typically not robust - even the same query can result in different answers when prompted multiple times.
 date:   2022-12-26 15:23:35 +0300
 image:  '/images/06.jpg'
-tags:   [LLM, Robustness, Social Choice Theory]
+#tags:   [LLM, Robustness, Social Choice Theory]
 ---
 # Robust Knowledge Extraction from Large Language Models using Social Choice Theory
 
