@@ -34,7 +34,7 @@ body {
     border: 1px solid $light-gray;
     outline: none;
   }
-  
+
   @media only screen and (max-width: $mobile) {
     font-size: 16px;
     line-height: 29px;
@@ -95,20 +95,20 @@ blockquote {
   line-height: 36px;
   font-weight: 900;
   color: $white;
-  
+
   &:before {
     content: '\201C';
     position: absolute;
     top: 0.59em;
-    left: -0.01em;
-    font-size: 4em;
+    left: -0.08em;
+    font-size: 3.5em;
     color: $brand-color;
   }
 
   p {
     margin-bottom: 20px;
   }
-  
+
   cite {
     font-size: 16px;
     font-style: normal;
@@ -123,6 +123,10 @@ blockquote {
     padding: 20px 20px 20px 48px;
     font-size: 20px;
     line-height: 28px;
+
+    &:before {
+      top: 0.54em;
+    }
   }
 }
 
@@ -141,8 +145,7 @@ code[class*=language-], pre[class*=language-] {
   line-height: inherit;
 }
 
-img, 
-.zoom-img-wrap {
+img, .lightense-wrap {
   max-width: 100%;
   height: auto;
   vertical-align: middle;
@@ -259,4 +262,8 @@ table tr:hover {
 
 .lazy.loaded {
   opacity: 1;
+}
+
+.lightense-backdrop {
+  background-color: $background-color !important;
 }
