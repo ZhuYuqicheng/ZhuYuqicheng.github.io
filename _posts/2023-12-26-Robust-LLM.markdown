@@ -23,3 +23,9 @@ There is a parameter called *temperature* (*t*) that can make the conditional di
 First of all, we argue that the deterministic answers provided by greedy search will be somewhat random because it corresponds to some local optimum found by LLMs. Secondly, most users only have access to the web version of chatGPT, therefore can not change *temperature*. Instead of setting temperature to 0, we allows some randomness in the answer, but increasing the robustness.
 
 > Follow-up content coming soon. :)
+
+Test:
+
+$$
+\int_0^1 x^2 dx
+$$
