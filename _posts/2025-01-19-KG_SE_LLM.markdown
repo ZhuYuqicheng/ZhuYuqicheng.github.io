@@ -3,7 +3,7 @@ layout: post
 title:  Summary of "Large Language Models, Knowledge Graphs and Search Engines - A Crossroads for Answering Users’ Questions"
 description: Summary for the recently published paper - "Large Language Models, Knowledge Graphs and Search Engines - A Crossroads for Answering Users’ Questions". 
 date:   2025-01-19 19:39:35 +0300
-image:  '/images/06.jpg'
+image:  '/images/04.jpg'
 #tags:   [LLM, Robustness, Social Choice Theory]
 ---
 # Introduction
