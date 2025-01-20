@@ -7,6 +7,7 @@ image:  '/images/06.jpg'
 #tags:   [LLM, Robustness, Social Choice Theory]
 ---
 # Introduction
+
 Since ChatGPT emerged, the concepts of large language models (LLMs), generative AI, and foundation models have rapidly permeated our lives, work, and research domains, creating numerous new opportunities.
 However, these technologies also come with critical limitations and risks. Primarily:
 - **Hallucination**: LLMs sometimes make up facts or events that are not based on real data, leading to incorrect or missleading answers.
@@ -19,10 +20,12 @@ To address these issue, LLMs are increasingly combined with complementary techno
 In this blog, I will summarize a recent survey paper titled _Large Language Models, Knowledge Graphs, and Search Engines: Answering Questions at a Crossroads_ by Aidan Hogan, Xin Luna Dong, Denny Vrandečić, and Gerhard Weikum. The paper delves into the strengths, weaknesses, and potential synergies of SEs, KGs, and LLMs, providing valuable insights into their alignment with user needs and exploring promising directions for future research.
 
 # A Brief Overview of KGs, SEs and LLMs
+
 First, let’s explore what these three techniques are and how they appear when used in practice:
 - **KGs**: These are structured representations of interconnected data that enable reasoning, precise querying, and integration of diverse datasets.
 - **SEs**: These are information retrieval systems that index and rank vast amounts of textual content to match user queries effectively.
 - **LLMs**: These are deep learning models trained on vast text corpora, capable of generating human-like text, answering questions, and synthesizing information.
+
 The following image illustrates how these technologies handle the same question: “What are the 10 most populous cities in the world?”
 
 ![basic](/images/survey_basic.png)
@@ -30,12 +33,16 @@ The following image illustrates how these technologies handle the same question:
 1. **KGs**: Users interact through structured queries (e.g., SPARQL) to retrieve precise, structured data from the graph, such as city names and populations.
 2. **SEs**: Users input natural language queries and receive ranked results from websites, often leading to pages containing relevant data.
 3. **LLMs**: Users engage conversationally and receive synthesized answers directly in natural language, often including approximations or context-based explanations.
+
 ### Pros and Cons of SEs, KGs and LLMs
+
 These approaches highlight their unique pros and cons.
+
 Pros:
 - **LLMs**: Broad contextual understanding, generative capabilities, and interactive interfaces.
 - **KGs**: Precision, transparency, and ability to handle complex, multi-hop queries.
 - **SEs**: Scalability, freshness, and access to diverse web content.
+
 Cons:
 - **LLMs**: Prone to hallucination, opacity, and inefficiency.
 - **KGs**: Limited scope, manual curation requirements, and difficulty with nuanced queries.
@@ -51,7 +58,9 @@ For a more comprehensive and well-organized analysis of the finer-grained pros a
 ![pros and cons](/images/survey_procon.png)
 
 # User Needs
+
 However, how the pros and cons affect the end user depend heavily on the users' demands.
+
 There are some types of queries that frequently asked from users:
 1. **Factual Queries**: Simple or complex factual needs.
 2. **Exploratory Queries**: Seeking understanding of unfamiliar topics.
