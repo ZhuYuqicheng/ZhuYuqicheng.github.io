@@ -4,7 +4,13 @@ title: News
 permalink: /news/
 image: '/images/news.jpg'
 ---
+# 2025
+
+**Jan 20th, 2025**: Paper [MaSH: Maximal Separating Poincaré Hyperplanes for Hierarchical Imbalanced Learning]() got accepted as a short paper by [WWW'25](https://www2025.thewebconf.org/).
+
 # 2024
+
+**Dec 3rd-12th, 2024**: Serve as a reviewer for [The Web Conference 2025 (WWW'25)](https://www2025.thewebconf.org/).
 
 **Nov 12nd - 16th, 2024**: Attended [the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24)](https://2024.emnlp.org/).
 

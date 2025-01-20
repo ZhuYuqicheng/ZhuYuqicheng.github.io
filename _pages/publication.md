@@ -7,6 +7,12 @@ image: '/images/publication.jpg'
 
 # Published Papers (also see [Google Scholar](https://scholar.google.com/citations?user=TE5jy5cAAAAJ&hl=en))
 
+## 2025
+
+### [MaSH: Maximal Separating Poincaré Hyperplanes for Hierarchical Imbalanced Learning]()
+
+Bo Xiong, jiaying Lu, <u>Yuqicheng Zhu</u>, Carl Yang. *The Web Conference 2025 (WWW 2025)*.
+
 ## 2024
 
 ### [Predictive Multiplicity of Knowledge Graph Embeddings in Link Prediction](https://aclanthology.org/2024.findings-emnlp.19/)
