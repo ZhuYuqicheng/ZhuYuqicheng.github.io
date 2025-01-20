@@ -6,7 +6,9 @@ image: '/images/news.jpg'
 ---
 # 2025
 
-**Jan 20th, 2025**: Paper [MaSH: Maximal Separating Poincaré Hyperplanes for Hierarchical Imbalanced Learning]() got accepted as a short paper by [WWW'25](https://www2025.thewebconf.org/).
+**Jan 20th, 2025**: Two papers got accepted by [WWW'25](https://www2025.thewebconf.org/):
+- [MaSH: Maximal Separating Poincaré Hyperplanes for Hierarchical Imbalanced Learning]()
+- [DAGE: DAG Query Answering via Relational Combinator with Logical Constraints](https://arxiv.org/pdf/2410.22105)
 
 # 2024
 

@@ -9,6 +9,10 @@ image: '/images/publication.jpg'
 
 ## 2025
 
+### [DAGE: DAG Query Answering via Relational Combinator with Logical Constraints](https://arxiv.org/pdf/2410.22105)
+
+Yunjie He, Bo Xiong, Daniel Hernandez, <u>Yuqicheng Zhu</u>, Evgeny Kharlamov, Steffen Staab. *The Web Conference 2025 (WWW 2025)*.
+
 ### [MaSH: Maximal Separating Poincaré Hyperplanes for Hierarchical Imbalanced Learning]()
 
 Bo Xiong, jiaying Lu, <u>Yuqicheng Zhu</u>, Carl Yang. *The Web Conference 2025 (WWW 2025)*.
