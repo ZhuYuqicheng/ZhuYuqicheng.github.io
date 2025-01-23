@@ -6,6 +6,8 @@ image: '/images/news.jpg'
 ---
 # 2025
 
+**Jan 22nd, 2025**: Paper [Conformalized Answer Set Prediction for Knowledge Graph Embedding](https://arxiv.org/pdf/2410.22105) got accepted by [NAACL'25](https://2025.naacl.org/) as a main conference paper.
+
 **Jan 20th, 2025**: Two papers got accepted by [WWW'25](https://www2025.thewebconf.org/):
 - [MaSH: Maximal Separating Poincaré Hyperplanes for Hierarchical Imbalanced Learning]()
 - [DAGE: DAG Query Answering via Relational Combinator with Logical Constraints](https://arxiv.org/pdf/2410.22105)
