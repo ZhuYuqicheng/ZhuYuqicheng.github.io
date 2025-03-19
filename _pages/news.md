@@ -6,6 +6,8 @@ image: '/images/news.jpg'
 ---
 # 2025
 
+**Mar 12nd, 2025**: PhD Proposal *Thesis Proposal: Uncertainty in Knowledge Graph Embeddings* got accepted by [NAACL SRW'25](https://naacl2025-srw.github.io/).
+
 **Jan 22nd, 2025**: Paper [Conformalized Answer Set Prediction for Knowledge Graph Embedding](https://arxiv.org/pdf/2410.22105) got accepted by [NAACL'25](https://2025.naacl.org/) as a main conference paper.
 
 **Jan 20th, 2025**: Two papers got accepted by [WWW'25](https://www2025.thewebconf.org/):
