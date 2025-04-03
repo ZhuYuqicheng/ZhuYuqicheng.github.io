@@ -1,0 +1,41 @@
+---
+layout: post
+title:  Can We Really Trust Knowledge Graph Embeddings? A Simple Guide to Quantifying Uncertainty in Predictions of KGE Models with Statistical Guarantees
+description: Large-language models (LLMs) have the potential to support a wide range of applications. However, they are ill-suited for query answering in high-stake domains like medicine because they generate answers at random and their answers are typically not robust - even the same query can result in different answers when prompted multiple times.
+date:   2025-04-03 16:50:35 +0300
+image:  '/images/06.jpg'
+#tags:   [LLM, Robustness, Social Choice Theory]
+---
+# Can We Really Trust Knowledge Graph Embeddings? A Simple Guide to Quantifying Uncertainty in Predictions of KGE Models with Statistical Guarantees
+
+In a world flooded with data, making sense of complex relationships is more important than ever. That’s where *knowledge graphs* (KGs) come in. KGs organize facts about entities—like people, places, and things—and how they’re connected. They power many of the tools we use every day, from search engines to recommendation systems.
+
+To enable similarity-based search and reasoning, researchers use a technique called *Knowledge Graph Embeddings* (KGE). KGE transforms the structured data in a KG into numerical vectors, capturing relationships through patterns and similarities. This makes it possible for machines to perform tasks like predicting missing facts in KG or retrieving relevant information in systems such as retrieval-augmented generation (RAG).
+
+But here's the catch: KGE models return plausibility scores for each possible answer to a query, ranking them by how "plausible" they are—not how probable. **These scores don't tell us how confident the model is in its top-ranked answer**. For example, imagine you're a doctor diagnosing a patient named Alice. You ask the system "What disease does Alice have?" (<Alice, HasDisease, ?>), and it ranks Pneumonia above LungCancer. But does that mean Pneumonia is very likely, or just slightly more plausible than other rare conditions? This ambiguity could lead to very different actions in critical scenarios.
+
+Quantifying uncertainty is especially crucial in high-stakes domains like healthcare, finance, or cybersecurity. **Yet, most KGE models don’t provide a clear way to do this**.
+
+## Quantifying Uncertainty with Prediction Sets
+
+In our recent paper published at NAACL 2025, we introduce a method to **rigorously quantify uncertainty in KGE predictions using statistical guarantees**. Unlike previous methods that attempt to convert plausibility scores into probabilities (often with limited reliability), we take a different route: we generate prediction sets.
+
+A prediction set is a set of possible answers that is supposed to include the correct one with high confidence (e.g., 95%). The key idea is simple and intuitive: **the size of the prediction set reflects the model’s uncertainty**. A small set means the model is confident; a large set means it's not so sure.
+
+Back to our example—if the system gives you a prediction set of just 2 diseases (e.g., Pneumonia and Bronchitis) with 95% confidence, you can act with more certainty. But if the set includes 20 diseases, it’s a signal to be cautious and gather more information.
+
+## Conformal Prediction for Knowledge Graph Embeddings
+
+To generate such prediction sets, we use *conformal prediction* - a general framework for uncertainty quantification that provides strong statistical guarantees: the prediction set will contain the true answer at least 95% of the time (or whatever confidence level you choose). It works by assigning a score to each possible answer and using a threshold, computed from a calibration set, to include only those answers that meet the desired confidence level.
+
+We apply this technique to KGE models and tested it on several popular benchmark datasets. The results were encouraging:
+
+- **Reliable**: We theoretically prove that our method provides prediction sets that truly match the target confidence level (e.g., 95%), and we back this up with extensive empirical validation across multiple datasets and KGE models.
+- **Adaptable**: The size of the prediction set adapts to the difficulty of each query—smaller for easy ones, larger for harder ones.
+- **Practical**: Even with a small calibration set (a fraction of the data), our approach still produces accurate and efficient prediction sets.
+
+**Why It Matters?** By clearly quantifying uncertainty, we enable safer use of KGE models in sensitive applications. You can now know how much to trust the model’s answer and act accordingly. Our method works with a wide range of existing KGE models and can be extended to more advanced reasoning systems.
+
+**Want to Learn More?** We invite you to check out our full paper published at NAACL 2025: [Conformalized Answer Set Prediction for Knowledge Graph Embedding](https://arxiv.org/pdf/2408.08248). If you're curious about the technique or want to explore how it might fit your application, feel free to reach out. We’re excited to share and collaborate!
+
+**Key Takeaway**: KGE models often lack a built-in way to express uncertainty. With our conformal prediction-based approach, we can fill that gap—giving you trustworthy, interpretable answers backed by statistical guarantees. 
