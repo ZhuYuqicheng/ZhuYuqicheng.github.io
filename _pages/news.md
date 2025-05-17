@@ -6,12 +6,18 @@ image: '/images/news.jpg'
 ---
 # 2025
 
+**May 15th, 2025**: Paper [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings]() got accepted as a finding paper by [ACL'25](https://2025.aclweb.org/).
+
+**Apr 28th - May 5th, 2025**: Attended [2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL'25)](https://2025.naacl.org/).
+
+![NAACL](/images/NAACL2025.JPG)
+
 **Mar 12nd, 2025**: PhD Proposal *Thesis Proposal: Uncertainty in Knowledge Graph Embeddings* got accepted by [NAACL SRW'25](https://naacl2025-srw.github.io/).
 
 **Jan 22nd, 2025**: Paper [Conformalized Answer Set Prediction for Knowledge Graph Embedding](https://arxiv.org/pdf/2410.22105) got accepted by [NAACL'25](https://2025.naacl.org/) as a main conference paper.
 
 **Jan 20th, 2025**: Two papers got accepted by [WWW'25](https://www2025.thewebconf.org/):
-- [MaSH: Maximal Separating Poincaré Hyperplanes for Hierarchical Imbalanced Learning]()
+- [MaSH: Maximal Separating Poincaré Hyperplanes for Hierarchical Imbalanced Learning](https://www.cs.emory.edu/~jyang71/files/mash.pdf)
 - [DAGE: DAG Query Answering via Relational Combinator with Logical Constraints](https://arxiv.org/pdf/2410.22105)
 
 # 2024

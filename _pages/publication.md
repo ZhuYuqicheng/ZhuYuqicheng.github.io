@@ -9,8 +9,11 @@ image: '/images/publication.jpg'
 
 ## 2025
 
-### *Thesis Proposal: Uncertainty in Knowledge Graph Embeddings*
-<u>Yuqicheng Zhu</u>. To be appear in NAACL SRW 2025.
+### [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings]()
+<u>Yuqicheng Zhu</u>, Daniel Hernandez, Yuan He, Zifeng Ding, Bo Xiong, Evgeny Kharlamov, Steffen Staab. To be appear in *the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*.
+
+### [Thesis Proposal: Uncertainty in Knowledge Graph Embeddings](https://aclanthology.org/2025.naacl-srw.4/)
+<u>Yuqicheng Zhu</u>. *NAACL Student Research Workshop (SRW) 2025*.
 
 ### [Conformalized Answer Set Prediction for Knowledge Graph Embedding](https://arxiv.org/pdf/2410.22105)
 
