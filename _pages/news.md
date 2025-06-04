@@ -6,6 +6,10 @@ image: '/images/news.jpg'
 ---
 # 2025
 
+**June 4th, 2025**: Honored to be featured as an IMPRS-IS Spotlight! Read the full article on the [IMPRS-IS website](https://imprs.is.mpg.de/news/imprs-is-scholar-spotlight-yuqicheng-zhu) and [PDF](/files/IMPRS_Spotlight.pdf).
+
+![Spotlight](/images/IMPRS_spotlight.png)
+
 **May 15th, 2025**: Paper [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings]() got accepted as a finding paper by [ACL'25](https://2025.aclweb.org/).
 
 **Apr 28th - May 5th, 2025**: Attended [2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL'25)](https://2025.naacl.org/).
