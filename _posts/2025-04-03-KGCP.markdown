@@ -2,7 +2,7 @@
 layout: post
 title:  Can We Really Trust Knowledge Graph Embeddings? A Simple Guide to Quantifying Uncertainty in Predictions of KGE Models with Statistical Guarantees
 description: Large-language models (LLMs) have the potential to support a wide range of applications. However, they are ill-suited for query answering in high-stake domains like medicine because they generate answers at random and their answers are typically not robust - even the same query can result in different answers when prompted multiple times.
-date:   2025-04-03 16:50:35 +0300
+date:   2025-06-04 17:52:35 +0300
 image:  '/images/06.jpg'
 #tags:   [LLM, Robustness, Social Choice Theory]
 ---
