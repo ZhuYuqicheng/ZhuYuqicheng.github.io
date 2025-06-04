@@ -10,19 +10,19 @@ image: '/images/news.jpg'
 
 ![Spotlight](/images/IMPRS_spotlight.png)
 
-**May 15th, 2025**: Paper [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings]() got accepted as a finding paper by [ACL'25](https://2025.aclweb.org/).
+**May 15th, 2025**: Paper [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings](https://arxiv.org/abs/2505.16877) got accepted as a finding paper by [ACL'25](https://2025.aclweb.org/).
 
 **Apr 28th - May 5th, 2025**: Attended [2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL'25)](https://2025.naacl.org/).
 
 ![NAACL](/images/NAACL2025.JPG)
 
-**Mar 12nd, 2025**: PhD Proposal *Thesis Proposal: Uncertainty in Knowledge Graph Embeddings* got accepted by [NAACL SRW'25](https://naacl2025-srw.github.io/).
+**Mar 12nd, 2025**: PhD Proposal [Thesis Proposal: Uncertainty in Knowledge Graph Embeddings](https://aclanthology.org/2025.naacl-srw.4/) got accepted by [NAACL SRW'25](https://naacl2025-srw.github.io/).
 
-**Jan 22nd, 2025**: Paper [Conformalized Answer Set Prediction for Knowledge Graph Embedding](https://arxiv.org/pdf/2410.22105) got accepted by [NAACL'25](https://2025.naacl.org/) as a main conference paper.
+**Jan 22nd, 2025**: Paper [Conformalized Answer Set Prediction for Knowledge Graph Embedding](https://aclanthology.org/2025.naacl-long.32/) got accepted by [NAACL'25](https://2025.naacl.org/) as a main conference paper (Oral Presentation).
 
 **Jan 20th, 2025**: Two papers got accepted by [WWW'25](https://www2025.thewebconf.org/):
-- [MaSH: Maximal Separating Poincaré Hyperplanes for Hierarchical Imbalanced Learning](https://www.cs.emory.edu/~jyang71/files/mash.pdf)
-- [DAGE: DAG Query Answering via Relational Combinator with Logical Constraints](https://arxiv.org/pdf/2410.22105)
+- [MaSH: Maximal Separating Poincaré Hyperplanes for Hierarchical Imbalanced Learning](https://dl.acm.org/doi/10.1145/3701716.3715505)
+- [DAGE: DAG Query Answering via Relational Combinator with Logical Constraints](https://dl.acm.org/doi/abs/10.1145/3696410.3714677)
 
 # 2024
 
@@ -34,7 +34,7 @@ image: '/images/news.jpg'
 
 **Sep 22nd, 2024**: Serve as a member of the program committee (PC member) for [the 38th International Florida Artificial Intelligence Research Society (FLAIRS 38)](https://www.flairs-38.info/).
 
-**Sep 20th, 2024**: Paper [Predictive Multiplicity of Knowledge Graph Embeddings in Link Prediction](https://arxiv.org/abs/2408.08226) got accepted as a finding paper by [EMNLP'24](https://2024.emnlp.org/).
+**Sep 20th, 2024**: Paper [Predictive Multiplicity of Knowledge Graph Embeddings in Link Prediction](https://aclanthology.org/2024.findings-emnlp.19/) got accepted as a finding paper by [EMNLP'24](https://2024.emnlp.org/).
 
 **Jul 4th, 2024**: Paper [Generating SROI^{-} Ontologies via Knowledge Graph Query Embedding Learning](https://arxiv.org/pdf/2407.09212) got accepted as a full paper by [ECAI'24](https://www.ecai2024.eu/).
 
@@ -42,13 +42,13 @@ image: '/images/news.jpg'
 
 ![ELLIS](/images/ELLIS2024.jpg)
 
-**May 6th-10th, 2024**: Attended AAMAS'24 and gave oral presentation for paper ["Robust Knowledge Extraction from Large Language Models using Social Choice Theory"](https://arxiv.org/abs/2312.14877) in Auckland, New Zealand.
+**May 6th-10th, 2024**: Attended AAMAS'24 and gave oral presentation for paper ["Robust Knowledge Extraction from Large Language Models using Social Choice Theory"](https://dl.acm.org/doi/10.5555/3635637.3663020) in Auckland, New Zealand.
 
 ![AAMAS](/images/AAMAS24.JPG)
 
 # 2023
 
-**Dec 21st, 2023**: Paper ["Robust Knowledge Extraction from Large Language Models using Social Choice Theory"](https://arxiv.org/abs/2312.14877) got accepted as a full paper by [AAMAS'24](https://www.aamas2024-conference.auckland.ac.nz/).
+**Dec 21st, 2023**: Paper ["Robust Knowledge Extraction from Large Language Models using Social Choice Theory"](https://dl.acm.org/doi/10.5555/3635637.3663020) got accepted as a full paper by [AAMAS'24](https://www.aamas2024-conference.auckland.ac.nz/).
 
 **Nov 28th, 2023**: Gave talk about ["Knowledge graphs meet Large Language Models"](https://www.linkedin.com/posts/google-developer-group-nuremberg_we-are-super-excited-to-announce-yuqicheng-activity-7132993111739314176-hpBr?utm_source=share&utm_medium=member_desktop) at Google Developer Group (GDG) Nuremberg. 
 
