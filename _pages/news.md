@@ -12,7 +12,7 @@ image: '/images/news.jpg'
 
 **May 15th, 2025**: Paper [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings](https://arxiv.org/abs/2505.16877) got accepted as a finding paper by [ACL'25](https://2025.aclweb.org/).
 
-**Apr 28th - May 5th, 2025**: Attended [2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL'25)](https://2025.naacl.org/).
+**Apr 28th - May 5th, 2025**: Attended [2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL'25)](https://2025.naacl.org/). Slides are available [here](https://de.slideshare.net/slideshow/conformalized-answer-set-prediction-for-knowledge-graph-embedding/280417218).
 
 ![NAACL](/images/NAACL2025.JPG)
 
