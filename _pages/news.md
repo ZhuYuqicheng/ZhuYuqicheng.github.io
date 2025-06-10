@@ -42,7 +42,7 @@ image: '/images/news.jpg'
 
 ![ELLIS](/images/ELLIS2024.jpg)
 
-**May 6th-10th, 2024**: Attended AAMAS'24 and gave oral presentation for paper ["Robust Knowledge Extraction from Large Language Models using Social Choice Theory"](https://dl.acm.org/doi/10.5555/3635637.3663020) in Auckland, New Zealand.
+**May 6th-10th, 2024**: Attended AAMAS'24 and gave oral presentation for paper ["Robust Knowledge Extraction from Large Language Models using Social Choice Theory"](https://dl.acm.org/doi/10.5555/3635637.3663020) in Auckland, New Zealand. Slides are available [here](https://de.slideshare.net/slideshow/robust-knowledge-extraction-from-large-language-models-using-social-choice-theory/280415188).
 
 ![AAMAS](/images/AAMAS24.JPG)
 
@@ -54,7 +54,7 @@ image: '/images/news.jpg'
 
 ![GDG23](/images/GDG23.JPG)
 
-**Nov 6th, 2023**: Gave talk about "Knowledge graphs meet Large Language Models" at [ISWC'23](https://iswc2023.semanticweb.org/) ([NeSyAI4 Tutorial](https://sites.google.com/view/nesyai4-2023/home)) in Athens, Greece.
+**Nov 6th, 2023**: Gave talk about "Knowledge graphs meet Large Language Models" at [ISWC'23](https://iswc2023.semanticweb.org/) ([NeSyAI4 Tutorial](https://sites.google.com/view/nesyai4-2023/home)) in Athens, Greece. Slides are available [here](https://de.slideshare.net/slideshow/tutorial-on-neuro-symbolic-ai-for-industry-4-0-nesyai4/280415494).
 
 ![ISWC23](/images/ISWC23.JPG)
 
@@ -66,7 +66,7 @@ image: '/images/news.jpg'
 
 **Sep 4th, 2023**: Two posters ["Towards Statistical Reasoning with Ontology Embeddings"](https://hozo.jp/ISWC2023_PD-Industry-proc/ISWC2023_paper_442.pdf) and ["Can Pattern Learning Enhance Complex Logical Query Answering?"](https://hozo.jp/ISWC2023_PD-Industry-proc/ISWC2023_paper_463.pdf) got accepted by [ISWC'23](https://iswc2023.semanticweb.org/)
 
-**Aug 26th, 2023**: Gave talk about "Machine Unlearning" at Google Developer Group (GDG) Stuttgart.
+**Aug 26th, 2023**: Gave talk about "Machine Unlearning" at Google Developer Group (GDG) Stuttgart. Slides are available [here](https://www.slideshare.net/slideshow/introduction-to-machine-unlearning-forgetting-is-as-important-as-learning/279859562).
 
 **Jul 8th - Jul 16th**: Attended Oxford Machine Learning Summer School ([OxML'23](https://www.oxfordml.school/program)) in Mathematical Institute, University of Oxford.
 
