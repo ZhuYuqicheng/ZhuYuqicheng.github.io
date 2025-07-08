@@ -6,6 +6,8 @@ image: '/images/news.jpg'
 ---
 # 2025
 
+**July 8th, 2025**: Paper [Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs](https://arxiv.org/abs/2503.22362) got accepted by [COLM'25](https://colmweb.org/).
+
 **June 4th, 2025**: Honored to be featured as an IMPRS-IS Spotlight! Read the full article on the [IMPRS-IS website](https://imprs.is.mpg.de/news/imprs-is-scholar-spotlight-yuqicheng-zhu) and [PDF](/files/IMPRS_Spotlight.pdf).
 
 ![Spotlight](/images/IMPRS_spotlight.png)

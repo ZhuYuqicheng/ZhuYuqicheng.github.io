@@ -9,7 +9,10 @@ image: '/images/publication.jpg'
 
 ## 2025
 
-### [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings]()
+### [Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs](https://arxiv.org/abs/2503.22362)
+Yuan He<sup>\*</sup>, Bailan He<sup>\*</sup>, Zifeng Ding<sup>\*</sup>, Alisia Lupidi, <u>Yuqicheng Zhu</u>, Shuo Chen, Caiqi Zhang, Jiaoyan Chen, Yunpu Ma, Volker Tresp, Ian Horrocks. To be appear in *Second Conference on Language Modeling (COLM 2025)*.
+
+### [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings](https://arxiv.org/abs/2505.16877)
 <u>Yuqicheng Zhu</u>, Daniel Hernandez, Yuan He, Zifeng Ding, Bo Xiong, Evgeny Kharlamov, Steffen Staab. To be appear in *the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*.
 
 ### [Thesis Proposal: Uncertainty in Knowledge Graph Embeddings](https://aclanthology.org/2025.naacl-srw.4/)
