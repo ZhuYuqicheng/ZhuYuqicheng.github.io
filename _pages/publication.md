@@ -9,11 +9,14 @@ image: '/images/publication.jpg'
 
 ## 2025
 
+### [ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation]()
+<u>Yuqicheng Zhu</u>, Nico Potyka, Daniel Hernández, Yuan He, Zifeng Ding, Bo Xiong, Dongzhuoran Zhou, Evgeny Kharlamov, Steffen Staab. To be appear in *International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025)*.
+
 ### [Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs](https://arxiv.org/abs/2503.22362)
 Yuan He<sup>\*</sup>, Bailan He<sup>\*</sup>, Zifeng Ding<sup>\*</sup>, Alisia Lupidi, <u>Yuqicheng Zhu</u>, Shuo Chen, Caiqi Zhang, Jiaoyan Chen, Yunpu Ma, Volker Tresp, Ian Horrocks. To be appear in *Second Conference on Language Modeling (COLM 2025)*.
 
 ### [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings](https://arxiv.org/abs/2505.16877)
-<u>Yuqicheng Zhu</u>, Daniel Hernandez, Yuan He, Zifeng Ding, Bo Xiong, Evgeny Kharlamov, Steffen Staab. To be appear in *the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*.
+<u>Yuqicheng Zhu</u>, Daniel Hernández, Yuan He, Zifeng Ding, Bo Xiong, Evgeny Kharlamov, Steffen Staab. To be appear in *the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*.
 
 ### [Thesis Proposal: Uncertainty in Knowledge Graph Embeddings](https://aclanthology.org/2025.naacl-srw.4/)
 <u>Yuqicheng Zhu</u>. *NAACL Student Research Workshop (SRW) 2025*.
@@ -24,7 +27,7 @@ Yuan He<sup>\*</sup>, Bailan He<sup>\*</sup>, Zifeng Ding<sup>\*</sup>, Alisia L
 
 ### [DAGE: DAG Query Answering via Relational Combinator with Logical Constraints](https://arxiv.org/pdf/2410.22105)
 
-Yunjie He, Bo Xiong, Daniel Hernandez, <u>Yuqicheng Zhu</u>, Evgeny Kharlamov, Steffen Staab. *The Web Conference 2025 (WWW 2025)*.
+Yunjie He, Bo Xiong, Daniel Hernández, <u>Yuqicheng Zhu</u>, Evgeny Kharlamov, Steffen Staab. *The Web Conference 2025 (WWW 2025)*.
 
 ### [MaSH: Maximal Separating Poincaré Hyperplanes for Hierarchical Imbalanced Learning]()
 

@@ -6,13 +6,17 @@ image: '/images/news.jpg'
 ---
 # 2025
 
-**July 8th, 2025**: Paper [Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs](https://arxiv.org/abs/2503.22362) got accepted by [COLM'25](https://colmweb.org/).
+**July 11th, 2025**: Paper [ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation]() has been accepted to [NeSy'25](https://2025.nesyconf.org/).
+
+**May 23rd - July 10th, 2025**: Participated in [batch #6 of "The AI Incubator" program](https://cyber-valley.de/ai-incubator), organized by [Cyber Valley](https://cyber-valley.de/).
+
+**July 8th, 2025**: Paper [Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs](https://arxiv.org/abs/2503.22362) has been accepted to [COLM'25](https://colmweb.org/).
 
 **June 4th, 2025**: Honored to be featured as an IMPRS-IS Spotlight! Read the full article on the [IMPRS-IS website](https://imprs.is.mpg.de/news/imprs-is-scholar-spotlight-yuqicheng-zhu) and [PDF](/files/IMPRS_Spotlight.pdf).
 
 ![Spotlight](/images/IMPRS_spotlight.png)
 
-**May 15th, 2025**: Paper [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings](https://arxiv.org/abs/2505.16877) got accepted as a finding paper by [ACL'25](https://2025.aclweb.org/).
+**May 15th, 2025**: Paper [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings](https://arxiv.org/abs/2505.16877) has been accepted as a finding paper at [ACL'25](https://2025.aclweb.org/).
 
 **Apr 28th - May 5th, 2025**: Attended [2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL'25)](https://2025.naacl.org/). Slides are available [here](https://de.slideshare.net/slideshow/conformalized-answer-set-prediction-for-knowledge-graph-embedding/280417218).
 
@@ -36,27 +40,27 @@ image: '/images/news.jpg'
 
 **Sep 22nd, 2024**: Serve as a member of the program committee (PC member) for [the 38th International Florida Artificial Intelligence Research Society (FLAIRS 38)](https://www.flairs-38.info/).
 
-**Sep 20th, 2024**: Paper [Predictive Multiplicity of Knowledge Graph Embeddings in Link Prediction](https://aclanthology.org/2024.findings-emnlp.19/) got accepted as a finding paper by [EMNLP'24](https://2024.emnlp.org/).
+**Sep 20th, 2024**: Paper [Predictive Multiplicity of Knowledge Graph Embeddings in Link Prediction](https://aclanthology.org/2024.findings-emnlp.19/) has been accepted as a finding paper at [EMNLP'24](https://2024.emnlp.org/).
 
-**Jul 4th, 2024**: Paper [Generating SROI^{-} Ontologies via Knowledge Graph Query Embedding Learning](https://arxiv.org/pdf/2407.09212) got accepted as a full paper by [ECAI'24](https://www.ecai2024.eu/).
+**Jul 4th, 2024**: Paper [Generating SROI^{-} Ontologies via Knowledge Graph Query Embedding Learning](https://arxiv.org/pdf/2407.09212) has been accepted as a full paper at [ECAI'24](https://www.ecai2024.eu/).
 
 **Jun 14th, 2024**: Attended ELLIS Summer Symposium (Stuttgart Unit) and had a poster about ["Decision Making Under Model Multiplicity"](https://ellis.eu/events)
 
 ![ELLIS](/images/ELLIS2024.jpg)
 
-**May 6th-10th, 2024**: Attended AAMAS'24 and gave oral presentation for paper ["Robust Knowledge Extraction from Large Language Models using Social Choice Theory"](https://dl.acm.org/doi/10.5555/3635637.3663020) in Auckland, New Zealand. Slides are available [here](https://de.slideshare.net/slideshow/robust-knowledge-extraction-from-large-language-models-using-social-choice-theory/280415188).
+**May 6th-10th, 2024**: Attended AAMAS'24 in Auckland, New Zealand, and gave an oral presentation of our paper ["Robust Knowledge Extraction from Large Language Models using Social Choice Theory"](https://dl.acm.org/doi/10.5555/3635637.3663020) . Slides are available [here](https://de.slideshare.net/slideshow/robust-knowledge-extraction-from-large-language-models-using-social-choice-theory/280415188).
 
 ![AAMAS](/images/AAMAS24.JPG)
 
 # 2023
 
-**Dec 21st, 2023**: Paper ["Robust Knowledge Extraction from Large Language Models using Social Choice Theory"](https://dl.acm.org/doi/10.5555/3635637.3663020) got accepted as a full paper by [AAMAS'24](https://www.aamas2024-conference.auckland.ac.nz/).
+**Dec 21st, 2023**: Paper ["Robust Knowledge Extraction from Large Language Models using Social Choice Theory"](https://dl.acm.org/doi/10.5555/3635637.3663020) has been accepted as a full paper at [AAMAS'24](https://www.aamas2024-conference.auckland.ac.nz/).
 
-**Nov 28th, 2023**: Gave talk about ["Knowledge graphs meet Large Language Models"](https://www.linkedin.com/posts/google-developer-group-nuremberg_we-are-super-excited-to-announce-yuqicheng-activity-7132993111739314176-hpBr?utm_source=share&utm_medium=member_desktop) at Google Developer Group (GDG) Nuremberg. 
+**Nov 28th, 2023**: Gave a talk titled ["Knowledge graphs meet Large Language Models"](https://www.linkedin.com/posts/google-developer-group-nuremberg_we-are-super-excited-to-announce-yuqicheng-activity-7132993111739314176-hpBr?utm_source=share&utm_medium=member_desktop) at Google Developer Group (GDG) Nuremberg. 
 
 ![GDG23](/images/GDG23.JPG)
 
-**Nov 6th, 2023**: Gave talk about "Knowledge graphs meet Large Language Models" at [ISWC'23](https://iswc2023.semanticweb.org/) ([NeSyAI4 Tutorial](https://sites.google.com/view/nesyai4-2023/home)) in Athens, Greece. Slides are available [here](https://de.slideshare.net/slideshow/tutorial-on-neuro-symbolic-ai-for-industry-4-0-nesyai4/280415494).
+**Nov 6th, 2023**: Gave talk titled "Knowledge graphs meet Large Language Models" at [ISWC'23](https://iswc2023.semanticweb.org/) ([NeSyAI4 Tutorial](https://sites.google.com/view/nesyai4-2023/home)) in Athens, Greece. Slides are available [here](https://de.slideshare.net/slideshow/tutorial-on-neuro-symbolic-ai-for-industry-4-0-nesyai4/280415494).
 
 ![ISWC23](/images/ISWC23.JPG)
 
