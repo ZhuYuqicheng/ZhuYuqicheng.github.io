@@ -6,6 +6,14 @@ image: '/images/news.jpg'
 ---
 # 2025
 
+**July 27th - Aug 1st, 2025**: Attended [The 63rd Annual Meeting of the Association for Computational Linguistics (ACL'25)](https://2025.aclweb.org/).
+- Presented the paper [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings](https://arxiv.org/abs/2505.16877).
+- Organized [Birds-of-a-Feather (BoF)](https://2025.aclweb.org/program/bof/) Session: NLP x Graphs: Where Structure Meets Language.
+
+![AAMAS](/images/ACL2.JPG)
+
+**July 22nd, 2025**: Paper [Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness](https://arxiv.org/abs/2504.05163) has been accepted to [IRISAI'25](https://iris-ai.org/).
+
 **July 11th, 2025**: Paper [ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation]() has been accepted to [NeSy'25](https://2025.nesyconf.org/).
 
 **May 23rd - July 10th, 2025**: Participated in [batch #6 of "The AI Incubator" program](https://cyber-valley.de/ai-incubator), organized by [Cyber Valley](https://cyber-valley.de/).

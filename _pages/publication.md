@@ -9,6 +9,9 @@ image: '/images/publication.jpg'
 
 ## 2025
 
+### [Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness](https://arxiv.org/abs/2504.05163)
+Dongzhuoran Zhou<sup>\*</sup>, <u>Yuqicheng Zhu</u><sup>\*</sup>, Yuan He, Jiaoyan Chen, Evgeny Kharlamov, Steffen Staab. *International Research and Industry Symposium on AI*
+
 ### [ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation]()
 <u>Yuqicheng Zhu</u>, Nico Potyka, Daniel Hernández, Yuan He, Zifeng Ding, Bo Xiong, Dongzhuoran Zhou, Evgeny Kharlamov, Steffen Staab. To be appear in *International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025)*.
 
