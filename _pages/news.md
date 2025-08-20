@@ -18,6 +18,8 @@ image: '/images/news.jpg'
 
 **May 23rd - July 10th, 2025**: Participated in [batch #6 of "The AI Incubator" program](https://cyber-valley.de/ai-incubator), organized by [Cyber Valley](https://cyber-valley.de/).
 
+![Incubator](/images/incubator.JPG)
+
 **July 8th, 2025**: Paper [Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs](https://arxiv.org/abs/2503.22362) has been accepted to [COLM'25](https://colmweb.org/).
 
 **June 4th, 2025**: Honored to be featured as an IMPRS-IS Spotlight! Read the full article on the [IMPRS-IS website](https://imprs.is.mpg.de/news/imprs-is-scholar-spotlight-yuqicheng-zhu) and [PDF](/files/IMPRS_Spotlight.pdf).
