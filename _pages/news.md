@@ -6,6 +6,8 @@ image: '/images/news.jpg'
 ---
 # 2025
 
+**Aug 20th, 2025**: Paper [Certainty in Uncertainty: Reasoning over Uncertain Knowledge Graphs with Statistical Guarantees]() has been accepted to [EMNLP'25](https://2025.emnlp.org/) as a main conference paper.
+
 **July 27th - Aug 1st, 2025**: Attended [The 63rd Annual Meeting of the Association for Computational Linguistics (ACL'25)](https://2025.aclweb.org/).
 - Presented the paper [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings](https://arxiv.org/abs/2505.16877).
 - Organized [Birds-of-a-Feather (BoF)](https://2025.aclweb.org/program/bof/) Session: NLP x Graphs: Where Structure Meets Language.

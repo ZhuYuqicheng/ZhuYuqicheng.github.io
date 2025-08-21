@@ -9,6 +9,9 @@ image: '/images/publication.jpg'
 
 ## 2025
 
+### [Certainty in Uncertainty: Reasoning over Uncertain Knowledge Graphs with Statistical Guarantees]()
+<u>Yuqicheng Zhu</u>, Jingcheng Wu, Yizhen Wang, Honguan Zhou, Jiaoyan Chen, Evgeny Kharlamov, Steffen Staab. To be appear in *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*
+
 ### [Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness](https://arxiv.org/abs/2504.05163)
 Dongzhuoran Zhou<sup>\*</sup>, <u>Yuqicheng Zhu</u><sup>\*</sup>, Yuan He, Jiaoyan Chen, Evgeny Kharlamov, Steffen Staab. *International Research and Industry Symposium on AI*
 
