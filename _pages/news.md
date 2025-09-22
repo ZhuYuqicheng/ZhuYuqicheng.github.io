@@ -6,25 +6,29 @@ image: '/images/news.jpg'
 ---
 # 2025
 
+**Sep 8th - Sep 10th, 2025**: Attended [19th International Conference on Neurosymbolic Learning and Reasoning (NeSy'25)](https://2025.nesyconf.org/) to present [ArgRAG](https://arxiv.org/pdf/2508.20131).
+
+![NeSy](/images/NeSy2025.JPG)
+
 **Aug 20th, 2025**: Paper [Certainty in Uncertainty: Reasoning over Uncertain Knowledge Graphs with Statistical Guarantees]() has been accepted to [EMNLP'25](https://2025.emnlp.org/) as a main conference paper.
 
 **July 27th - Aug 1st, 2025**: Attended [The 63rd Annual Meeting of the Association for Computational Linguistics (ACL'25)](https://2025.aclweb.org/).
 - Presented the paper [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings](https://arxiv.org/abs/2505.16877).
 - Organized [Birds-of-a-Feather (BoF)](https://2025.aclweb.org/program/bof/) Session: NLP x Graphs: Where Structure Meets Language.
 
-![AAMAS](/images/ACL2.JPG)
+![ACL](/images/ACL2.JPG)
 
-**July 22nd, 2025**: Paper [Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness](https://arxiv.org/abs/2504.05163) has been accepted to [IRISAI'25](https://iris-ai.org/).
+**Jul 22nd, 2025**: Paper [Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness](https://arxiv.org/abs/2504.05163) has been accepted to [IRISAI'25](https://iris-ai.org/).
 
-**July 11th, 2025**: Paper [ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation]() has been accepted to [NeSy'25](https://2025.nesyconf.org/).
+**Jul 11th, 2025**: Paper [ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation](https://arxiv.org/pdf/2508.20131) has been accepted to [NeSy'25](https://2025.nesyconf.org/).
 
-**May 23rd - July 10th, 2025**: Participated in [batch #6 of "The AI Incubator" program](https://cyber-valley.de/ai-incubator), organized by [Cyber Valley](https://cyber-valley.de/).
+**May 23rd - Jul 10th, 2025**: Participated in [batch #6 of "The AI Incubator" program](https://cyber-valley.de/ai-incubator), organized by [Cyber Valley](https://cyber-valley.de/).
 
 ![Incubator](/images/incubator.JPG)
 
-**July 8th, 2025**: Paper [Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs](https://arxiv.org/abs/2503.22362) has been accepted to [COLM'25](https://colmweb.org/).
+**Jul 8th, 2025**: Paper [Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs](https://arxiv.org/abs/2503.22362) has been accepted to [COLM'25](https://colmweb.org/).
 
-**June 4th, 2025**: Honored to be featured as an IMPRS-IS Spotlight! Read the full article on the [IMPRS-IS website](https://imprs.is.mpg.de/news/imprs-is-scholar-spotlight-yuqicheng-zhu) and [PDF](/files/IMPRS_Spotlight.pdf).
+**Jun 4th, 2025**: Honored to be featured as an IMPRS-IS Spotlight! Read the full article on the [IMPRS-IS website](https://imprs.is.mpg.de/news/imprs-is-scholar-spotlight-yuqicheng-zhu) and [PDF](/files/IMPRS_Spotlight.pdf).
 
 ![Spotlight](/images/IMPRS_spotlight.png)
 
