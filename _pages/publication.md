@@ -9,11 +9,14 @@ image: '/images/publication.jpg'
 
 ## 2025
 
+### [Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning](https://arxiv.org/pdf/2509.00975)
+Zifeng Ding, Shenyang Huang, Zeyu Cao, Emma Kondrup, Zachary Yang, Xingyue Huang, Yuan Sui, Zhangdie Yuan, <u>Yuqicheng Zhu</u>, Xianglong Hu, Yuan He, Farimah Poursafaei, Michael Bronstein, Andreas Vlachos. To be appear in *NeurIPS 2025 Workshop: New Perspectives in Advancing Graph Machine Learning (NPGML@NeurIPS)*.
+
 ### [Certainty in Uncertainty: Reasoning over Uncertain Knowledge Graphs with Statistical Guarantees]()
-<u>Yuqicheng Zhu</u>, Jingcheng Wu, Yizhen Wang, Honguan Zhou, Jiaoyan Chen, Evgeny Kharlamov, Steffen Staab. To be appear in *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*
+<u>Yuqicheng Zhu</u>, Jingcheng Wu, Yizhen Wang, Honguan Zhou, Jiaoyan Chen, Evgeny Kharlamov, Steffen Staab. To be appear in *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*.
 
 ### [Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness](https://arxiv.org/abs/2504.05163)
-Dongzhuoran Zhou<sup>\*</sup>, <u>Yuqicheng Zhu</u><sup>\*</sup>, Yuan He, Jiaoyan Chen, Evgeny Kharlamov, Steffen Staab. *International Research and Industry Symposium on AI*
+Dongzhuoran Zhou<sup>\*</sup>, <u>Yuqicheng Zhu</u><sup>\*</sup>, Yuan He, Jiaoyan Chen, Evgeny Kharlamov, Steffen Staab. *International Research and Industry Symposium on AI*.
 
 ### [ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation]()
 <u>Yuqicheng Zhu</u>, Nico Potyka, Daniel Hernández, Yuan He, Zifeng Ding, Bo Xiong, Dongzhuoran Zhou, Evgeny Kharlamov, Steffen Staab. To be appear in *International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025)*.
