@@ -4,15 +4,25 @@ title: News
 permalink: /news/
 image: '/images/news.jpg'
 ---
+# 2026
+
+**Jan 4nd, 2026**: [What Breaks Knowledge Graph based RAG? Empirical Insights into Reasoning under Incomplete Knowledge](https://arxiv.org/abs/2508.08344) has been accepted to [The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL'26)](https://2026.eacl.org/)  as a main conference paper.
+
 # 2025
 
-**Sep 23rd, 2025**: Paper [Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning](https://arxiv.org/pdf/2509.00975) has been accepted to NeurIPS 2025 Workshop: [New Perspectives in Advancing Graph Machine Learning](https://newgraphperspectives.com/) (NPGML@NeurIPS).
+**Nov 8nd, 2025**: Paper [Seeing and Knowing in the Wild: Open-domain Visual Entity Recognition with Large-scale Knowledge Graphs via Contrastive Learning](https://arxiv.org/abs/2510.13675) has been accepted to [The 40th Annual AAAI Conference on Artificial Intelligence (AAAI'26)](https://aaai.org/conference/aaai/aaai-26/).
+
+**Nov 4nd - 6nd, 2025**: Attended [The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP'25)](https://2025.emnlp.org/).
+- present [UnKGCP](https://aclanthology.org/2025.emnlp-main.441/).
+- organized Birds-of-a-Feather (BoF) session: Language Model Agents in Industry.
+
+**Sep 23rd, 2025**: Paper [Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning](https://arxiv.org/pdf/2509.00975) has been accepted to NeurIPS 2025 Workshop: [New Perspectives in Advancing Graph Machine Learning (NPGML@NeurIPS)](https://newgraphperspectives.com/).
 
 **Sep 8th - Sep 10th, 2025**: Attended [19th International Conference on Neurosymbolic Learning and Reasoning (NeSy'25)](https://2025.nesyconf.org/) to present [ArgRAG](https://arxiv.org/pdf/2508.20131).
 
 ![NeSy](/images/NeSy2025.JPG)
 
-**Aug 20th, 2025**: Paper [Certainty in Uncertainty: Reasoning over Uncertain Knowledge Graphs with Statistical Guarantees]() has been accepted to [EMNLP'25](https://2025.emnlp.org/) as a main conference paper.
+**Aug 20th, 2025**: Paper [Certainty in Uncertainty: Reasoning over Uncertain Knowledge Graphs with Statistical Guarantees](https://aclanthology.org/2025.emnlp-main.441/) has been accepted to [EMNLP'25](https://2025.emnlp.org/) as a main conference paper.
 
 **July 27th - Aug 1st, 2025**: Attended [The 63rd Annual Meeting of the Association for Computational Linguistics (ACL'25)](https://2025.aclweb.org/).
 - Presented the paper [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings](https://arxiv.org/abs/2505.16877).

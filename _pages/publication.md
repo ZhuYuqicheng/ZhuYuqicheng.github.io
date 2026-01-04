@@ -7,25 +7,40 @@ image: '/images/publication.jpg'
 
 # Published Papers (also see [Google Scholar](https://scholar.google.com/citations?user=TE5jy5cAAAAJ&hl=en))
 
+## 2026
+
+### [What Breaks Knowledge Graph based RAG? Empirical Insights into Reasoning under Incomplete Knowledge](https://arxiv.org/abs/2508.08344)
+Dongzhuoran Zhou, <u>Yuqicheng Zhu</u>, Xiaxia Wang, Hongkuan Zhou, Yuan He, Jiaoyan Chen, Steffen Staab, Evgeny Kharlamov. *The 19th Conference of the European Chapter
+of the Association for Computational Linguistics (EACL 2026)*.
+
+### [Seeing and Knowing in the Wild: Open-domain Visual Entity Recognition with Large-scale Knowledge Graphs via Contrastive Learning](https://arxiv.org/abs/2510.13675)
+Hongkuan Zhou, Lavdim Halilaj, Sebastian Monka, Stefan Schmid, <u>Yuqicheng Zhu</u>, Jingcheng Wu, Nadeem Nazer, Steffen Staab. *The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)*.
+
 ## 2025
 
-### [Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning](https://arxiv.org/pdf/2509.00975)
-Zifeng Ding, Shenyang Huang, Zeyu Cao, Emma Kondrup, Zachary Yang, Xingyue Huang, Yuan Sui, Zhangdie Yuan, <u>Yuqicheng Zhu</u>, Xianglong Hu, Yuan He, Farimah Poursafaei, Michael Bronstein, Andreas Vlachos. To be appear in *NeurIPS 2025 Workshop: New Perspectives in Advancing Graph Machine Learning (NPGML@NeurIPS)*.
+### [GR-Agent: Adaptive Graph Reasoning Agent under Incomplete Knowledge](https://openreview.net/forum?id=AjuJPlsld7)
+Dongzhuoran Zhou, <u>Yuqicheng Zhu</u>, Xiaxia Wang, Hongkuan Zhou, Jiaoyan Chen, Steffen Staab, Yuan He, Evgeny Kharlamov. *NeurIPS 2025 Workshop: Scaling Environments for Agents (SEA@NeurIPS 2025)*.
 
-### [Certainty in Uncertainty: Reasoning over Uncertain Knowledge Graphs with Statistical Guarantees]()
-<u>Yuqicheng Zhu</u>, Jingcheng Wu, Yizhen Wang, Honguan Zhou, Jiaoyan Chen, Evgeny Kharlamov, Steffen Staab. To be appear in *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*.
+### [Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning](https://arxiv.org/pdf/2509.00975)
+Zifeng Ding, Shenyang Huang, Zeyu Cao, Emma Kondrup, Zachary Yang, Xingyue Huang, Yuan Sui, Zhangdie Yuan, <u>Yuqicheng Zhu</u>, Xianglong Hu, Yuan He, Farimah Poursafaei, Michael Bronstein, Andreas Vlachos. *NeurIPS 2025 Workshop: New Perspectives in Advancing Graph Machine Learning (NPGML@NeurIPS 2025)*.
+
+### [Certainty in Uncertainty: Reasoning over Uncertain Knowledge Graphs with Statistical Guarantees](https://aclanthology.org/2025.emnlp-main.441/)
+<u>Yuqicheng Zhu</u>, Jingcheng Wu, Yizhen Wang, Honguan Zhou, Jiaoyan Chen, Evgeny Kharlamov, Steffen Staab. *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*.
 
 ### [Evaluating Knowledge Graph Based Retrieval Augmented Generation Methods under Knowledge Incompleteness](https://arxiv.org/abs/2504.05163)
 Dongzhuoran Zhou<sup>\*</sup>, <u>Yuqicheng Zhu</u><sup>\*</sup>, Yuan He, Jiaoyan Chen, Evgeny Kharlamov, Steffen Staab. *International Research and Industry Symposium on AI*.
 
-### [ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation]()
-<u>Yuqicheng Zhu</u>, Nico Potyka, Daniel Hernández, Yuan He, Zifeng Ding, Bo Xiong, Dongzhuoran Zhou, Evgeny Kharlamov, Steffen Staab. To be appear in *International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025)*.
+### [ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation](https://proceedings.mlr.press/v284/zhu25a.html)
+<u>Yuqicheng Zhu</u>, Nico Potyka, Daniel Hernández, Yuan He, Zifeng Ding, Bo Xiong, Dongzhuoran Zhou, Evgeny Kharlamov, Steffen Staab. *International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025)*.
 
 ### [Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs](https://arxiv.org/abs/2503.22362)
-Yuan He<sup>\*</sup>, Bailan He<sup>\*</sup>, Zifeng Ding<sup>\*</sup>, Alisia Lupidi, <u>Yuqicheng Zhu</u>, Shuo Chen, Caiqi Zhang, Jiaoyan Chen, Yunpu Ma, Volker Tresp, Ian Horrocks. To be appear in *Second Conference on Language Modeling (COLM 2025)*.
+Yuan He<sup>\*</sup>, Bailan He<sup>\*</sup>, Zifeng Ding<sup>\*</sup>, Alisia Lupidi, <u>Yuqicheng Zhu</u>, Shuo Chen, Caiqi Zhang, Jiaoyan Chen, Yunpu Ma, Volker Tresp, Ian Horrocks. *Second Conference on Language Modeling (COLM 2025)*.
+
+### [GQC: Llm-based Qrouped QA Consolidation for Open-Domain Fact Verification at AVeriTeC](https://arxiv.org/abs/2305.13117)
+Dongzhuoran Zhou, Roxana Pop, <u>Yuqicheng Zhu</u>, Evgeny Kharlamov. *FEVER@ACL 2025*.
 
 ### [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings](https://arxiv.org/abs/2505.16877)
-<u>Yuqicheng Zhu</u>, Daniel Hernández, Yuan He, Zifeng Ding, Bo Xiong, Evgeny Kharlamov, Steffen Staab. To be appear in *the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*.
+<u>Yuqicheng Zhu</u>, Daniel Hernández, Yuan He, Zifeng Ding, Bo Xiong, Evgeny Kharlamov, Steffen Staab.  *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*.
 
 ### [Thesis Proposal: Uncertainty in Knowledge Graph Embeddings](https://aclanthology.org/2025.naacl-srw.4/)
 <u>Yuqicheng Zhu</u>. *NAACL Student Research Workshop (SRW) 2025*.
@@ -57,10 +72,6 @@ Yunjie He, Daniel Hernandez, Mojtaba Nayyeri, Bo Xiong, <u>Yuqicheng Zhu</u>, Ev
 Nico Potyka<sup>\*</sup>, <u>Yuqicheng Zhu</u><sup>\*</sup>, Yunjie He, Evgeny Kharlamov, Steffen Staab. *The 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2024)*.
 
 ## 2023
-
-### [Modeling Relational Patterns for Logical Query Answering over Knowledge Graphs](https://arxiv.org/pdf/2303.11858)
-
-Yunjie He, Mojtaba Nayyeri, Bo Xiong, <u>Yuqicheng Zhu</u>, Evgeny Kharlamov, Steffen Staab. *Under review*.
 
 ### [Towards Statistical Reasoning with Ontology Embeddings](https://hozo.jp/ISWC2023_PD-Industry-proc/ISWC2023_paper_442.pdf)
 
