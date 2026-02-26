@@ -18,7 +18,7 @@ image: '/images/news.jpg'
 
 ![EMNLP2026](/images/EMNLP2026.JPG)
 
-![EMNLP2026](/images/EMNLP2026_BoF.JPG)
+![EMNLP2026_BoF](/images/EMNLP2026_BoF.JPG)
 
 **Sep 23rd, 2025**: Paper [Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning](https://arxiv.org/pdf/2509.00975) has been accepted to NeurIPS 2025 Workshop: [New Perspectives in Advancing Graph Machine Learning (NPGML@NeurIPS)](https://newgraphperspectives.com/).
 
