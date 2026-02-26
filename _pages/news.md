@@ -16,6 +16,10 @@ image: '/images/news.jpg'
 - present [UnKGCP](https://aclanthology.org/2025.emnlp-main.441/).
 - organized Birds-of-a-Feather (BoF) session: Language Model Agents in Industry.
 
+![EMNLP2026](/images/EMNLP2026.JPG)
+
+![EMNLP2026](/images/EMNLP2026_BoF.JPG)
+
 **Sep 23rd, 2025**: Paper [Self-Exploring Language Models for Explainable Link Forecasting on Temporal Graphs via Reinforcement Learning](https://arxiv.org/pdf/2509.00975) has been accepted to NeurIPS 2025 Workshop: [New Perspectives in Advancing Graph Machine Learning (NPGML@NeurIPS)](https://newgraphperspectives.com/).
 
 **Sep 8th - Sep 10th, 2025**: Attended [19th International Conference on Neurosymbolic Learning and Reasoning (NeSy'25)](https://2025.nesyconf.org/) to present [ArgRAG](https://arxiv.org/pdf/2508.20131).
