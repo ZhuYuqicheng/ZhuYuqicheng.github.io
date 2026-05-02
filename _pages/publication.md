@@ -9,6 +9,9 @@ image: '/images/publication.jpg'
 
 ## 2026
 
+### [SCAIR: Schema-Conditioned Agentic Iterative Reasoning for Enterprise Knowledge Graphs](https://openreview.net/pdf?id=IVtK2kO2pC)
+Prateek Chaturvedi, <u>Yuqicheng Zhu</u>, Hongkuan Zhou, Dongzhuoran Zhou, Yunjie He, Steffen Staab, Fei Du, Jie Tang, Evgeny Kharlamov *The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026), Industry Track*.
+
 ### [What Breaks Knowledge Graph based RAG? Empirical Insights into Reasoning under Incomplete Knowledge](https://arxiv.org/abs/2508.08344)
 Dongzhuoran Zhou, <u>Yuqicheng Zhu</u>, Xiaxia Wang, Hongkuan Zhou, Yuan He, Jiaoyan Chen, Steffen Staab, Evgeny Kharlamov. *The 19th Conference of the European Chapter
 of the Association for Computational Linguistics (EACL 2026)*.
