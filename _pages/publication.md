@@ -9,6 +9,10 @@ image: '/images/publication.jpg'
 
 ## 2026
 
+### [Approximating Probabilistic Inference in Statistical EL with Knowledge Graph Embeddings](https://arxiv.org/abs/2407.11821)
+
+<u>Yuqicheng Zhu</u>, Nico Potyka, Bo Xiong, Trung-Kien Tran, Mojtaba Nayyeri, Steffen Staab, Evgeny Kharlamov. *The 42nd Conference on Uncertainty in Artificial Intelligence*.
+
 ### [SCAIR: Schema-Conditioned Agentic Iterative Reasoning for Enterprise Knowledge Graphs](https://openreview.net/pdf?id=IVtK2kO2pC)
 Prateek Chaturvedi, <u>Yuqicheng Zhu</u>, Hongkuan Zhou, Dongzhuoran Zhou, Yunjie He, Steffen Staab, Fei Du, Jie Tang, Evgeny Kharlamov *The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026), Industry Track*.
 
@@ -78,7 +82,7 @@ Nico Potyka<sup>\*</sup>, <u>Yuqicheng Zhu</u><sup>\*</sup>, Yunjie He, Evgeny K
 
 ### [Towards Statistical Reasoning with Ontology Embeddings](https://hozo.jp/ISWC2023_PD-Industry-proc/ISWC2023_paper_442.pdf)
 
-<u>Yuqicheng Zhu</u><sup>\*</sup>, Nico Potyka<sup>\*</sup>, Bo Xiong, Trung-Kien Tran, Mojtaba Nayyeri, Steffen Staab, Evgeny Kharlamov. *The 23nd International Semantic Web Conference (ISWC 2023 Posters and Demos)*.
+<u>Yuqicheng Zhu</u><sup>\*</sup>, Nico Potyka<sup>\*</sup>, Bo Xiong, Trung-Kien Tran, Mojtaba Nayyeri, Steffen Staab, Evgeny Kharlamov. *The 23rd International Semantic Web Conference (ISWC 2023 Posters and Demos)*.
 
 ### [Can Pattern Learning Enhance Complex Logical Query Answering?](https://hozo.jp/ISWC2023_PD-Industry-proc/ISWC2023_paper_463.pdf)
 

@@ -6,6 +6,8 @@ image: '/images/news.jpg'
 ---
 # 2026
 
+**Jun 1st, 2026**: [Approximating Probabilistic Inference in Statistical EL with Knowledge Graph Embeddings](https://arxiv.org/abs/2407.11821) has been accepted to [The 42nd Conference on Uncertainty in Artificial Intelligence (UAI'26)](https://www.auai.org/uai2026/).
+
 **Apr 18th, 2026**: [SCAIR: Schema-Conditioned Agentic Iterative Reasoning for Enterprise Knowledge Graphs](https://openreview.net/pdf?id=IVtK2kO2pC) has been accepted to [The 64th Annual Meeting of the Association for Computational Linguistics (ACL'26)](https://2026.aclweb.org/) in the industry track.
 
 **Jan 4nd, 2026**: [What Breaks Knowledge Graph based RAG? Empirical Insights into Reasoning under Incomplete Knowledge](https://arxiv.org/abs/2508.08344) has been accepted to [The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL'26)](https://2026.eacl.org/) as a main conference paper.
