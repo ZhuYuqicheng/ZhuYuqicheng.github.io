@@ -6,6 +6,11 @@ image: '/images/news.jpg'
 ---
 # 2026
 
+**Jun 29th, 2026**: I was invited to give a keynote talk at [SemTech 2026](), 
+the 4th International Workshop on AI and Semantic Technologies for the Scientific, Technical, and Legal Web, 
+held in conjunction with The Web Conference (WWW). 
+In the talk, jointly with [Prof. Evgeny Kharlamov](https://scholar.google.com/citations?user=-slpMF8AAAAJ&hl=en), we presented our recent research on agentic knowledge graph reasoning, focusing on reasoning under incomplete knowledge and industrial applications of LLM agents.
+
 **Jun 1st, 2026**: [Approximating Probabilistic Inference in Statistical EL with Knowledge Graph Embeddings](https://arxiv.org/abs/2407.11821) has been accepted to [The 42nd Conference on Uncertainty in Artificial Intelligence (UAI'26)](https://www.auai.org/uai2026/).
 
 **Apr 18th, 2026**: [SCAIR: Schema-Conditioned Agentic Iterative Reasoning for Enterprise Knowledge Graphs](https://openreview.net/pdf?id=IVtK2kO2pC) has been accepted to [The 64th Annual Meeting of the Association for Computational Linguistics (ACL'26)](https://2026.aclweb.org/) in the industry track.
