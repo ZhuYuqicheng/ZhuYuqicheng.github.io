@@ -6,6 +6,8 @@ image: '/images/news.jpg'
 ---
 # 2026
 
+**Jul 23rd, 2026**: Awarded an [ELIAS mobility grant](https://elias-ai.eu/mobility-program/) to conduct research at the University of Oxford on reliable medical AI agents with statistical guarantees.
+
 **Jun 29th, 2026**: I was invited to give a keynote talk at [SemTech 2026](), 
 the 4th International Workshop on AI and Semantic Technologies for the Scientific, Technical, and Legal Web, 
 held in conjunction with The Web Conference (WWW). 
