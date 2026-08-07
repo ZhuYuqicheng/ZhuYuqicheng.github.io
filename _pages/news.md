@@ -6,7 +6,7 @@ image: '/images/news.jpg'
 ---
 # 2026
 
-**Jul 23rd, 2026**: Awarded an [ELIAS mobility grant](https://elias-ai.eu/mobility-program/) to conduct research at the University of Oxford on reliable medical AI agents with statistical guarantees.
+**Jul 23rd, 2026**: Awarded an [ELIAS mobility grant](https://elias-ai.eu/mobility-program/) to conduct research at the [University of Oxford](https://www.ox.ac.uk/) on reliable medical AI agents with statistical guarantees, in collaboration with [Orphic](https://www.orphichealth.com/).
 
 **Jun 29th, 2026**: I was invited to give a keynote talk at [SemTech 2026](), 
 the 4th International Workshop on AI and Semantic Technologies for the Scientific, Technical, and Legal Web, 
@@ -16,6 +16,8 @@ In the talk, jointly with [Prof. Evgeny Kharlamov](https://scholar.google.com/ci
 **Jun 1st, 2026**: [Approximating Probabilistic Inference in Statistical EL with Knowledge Graph Embeddings](https://arxiv.org/abs/2407.11821) has been accepted to [The 42nd Conference on Uncertainty in Artificial Intelligence (UAI'26)](https://www.auai.org/uai2026/).
 
 **Apr 18th, 2026**: [SCAIR: Schema-Conditioned Agentic Iterative Reasoning for Enterprise Knowledge Graphs](https://openreview.net/pdf?id=IVtK2kO2pC) has been accepted to [The 64th Annual Meeting of the Association for Computational Linguistics (ACL'26)](https://2026.aclweb.org/) in the industry track.
+
+**Mar 25th, 2026**: I was invited to speak at the [Knowledge Graph, Ontology and Large Language Model Seminar](https://www.linkedin.com/posts/jiaoyan-chen-00822b26_llm-kg-activity-7442694004170883072-hDzi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACa3pfUBRBxMnpiUFfkBKHIUQKS5mpHYANQ) at the Department of Computer Science, University of Manchester.
 
 **Jan 4nd, 2026**: [What Breaks Knowledge Graph based RAG? Empirical Insights into Reasoning under Incomplete Knowledge](https://arxiv.org/abs/2508.08344) has been accepted to [The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL'26)](https://2026.eacl.org/) as a main conference paper.
 
