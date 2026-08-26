@@ -6,8 +6,6 @@ image: '/images/news.jpg'
 ---
 # 2026
 
-**Aug 25th, 2026**: I am delighted to have received an official offer to join the University of Oxford as a Postdoctoral Researcher in the [AI for Digital Health (AI4DH)](https://eng.ox.ac.uk/ai4dh) group. 🎉
-
 **Aug 21st, 2026**: 4 papers have been accepted to EMNLP 2026 (2 main, 1 finding, 1 industry track) 
 - [Conformalized Large Language Models under Configuration Shift](https://arxiv.org/abs/2608.01460)
 - Logic Meets Language: Hybrid Query Answering over Incomplete Text-Labeled Graphs
