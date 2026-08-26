@@ -9,6 +9,10 @@ image: '/images/publication.jpg'
 
 ## 2026
 
+### [Conformalized Large Language Models under Configuration Shift](https://arxiv.org/abs/2608.01460)
+
+<u>Yuqicheng Zhu</u>, Jialin Yu, Lin Li, Gengyuan Zhang, Zhen Yang, Steffen Staab, Puneet Dokania, Philip Torr, Jie Tang, Evgeny Kharlamov. *The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*.
+
 ### [Approximating Probabilistic Inference in Statistical EL with Knowledge Graph Embeddings](https://arxiv.org/abs/2407.11821)
 
 <u>Yuqicheng Zhu</u>, Nico Potyka, Bo Xiong, Trung-Kien Tran, Mojtaba Nayyeri, Steffen Staab, Evgeny Kharlamov. *The 42nd Conference on Uncertainty in Artificial Intelligence*.
