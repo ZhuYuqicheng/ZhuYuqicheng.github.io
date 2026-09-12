@@ -6,10 +6,15 @@ image: '/images/news.jpg'
 ---
 # 2026
 
+**Sep 7th, 2026**: I successfully defended my PhD thesis with the distinction *summa cum laude*.
+
+![Defence](/images/defence.JPG)
+
+
 **Aug 21st, 2026**: 4 papers have been accepted to EMNLP 2026 (2 main, 1 finding, 1 industry track) 
 - [Conformalized Large Language Models under Configuration Shift](https://arxiv.org/abs/2608.01460)
 - Logic Meets Language: Hybrid Query Answering over Incomplete Text-Labeled Graphs
-- AWM: Answerable Working Memory for Long-Document VQA Agents
+- [AWM: Answerable Working Memory for Long-Document VQA Agents](https://arxiv.org/pdf/2608.25618)
 - Less Is More: Graph-free Multimodal RAG via Multi-signal Late Fusion
 
 **Jul 23rd, 2026**: Awarded an [ELIAS mobility grant](https://elias-ai.eu/mobility-program/) to conduct research at the [University of Oxford](https://www.ox.ac.uk/) on reliable medical AI agents with statistical guarantees, in collaboration with [Orphic](https://www.orphichealth.com/).
