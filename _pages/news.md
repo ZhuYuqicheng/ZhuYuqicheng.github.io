@@ -6,6 +6,8 @@ image: '/images/news.jpg'
 ---
 # 2026
 
+**Sep 25th, 2026**: [How to Train a Surgeon? Benchmarking Generalist Agents in Surgical Scene Understanding]() has been accepted to [The Fortieth Annual Conference on Neural Information Processing Systems Evaluations and Datasets Track (NeurIPS'26)](https://neurips.cc/).
+
 **Sep 7th, 2026**: I successfully defended my PhD thesis with the distinction *summa cum laude*.
 
 ![Defence](/images/defence.JPG)
